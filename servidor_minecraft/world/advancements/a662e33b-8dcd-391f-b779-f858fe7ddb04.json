@@ -1,44 +1,17 @@
 {
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-31 21:07:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-31 21:06:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2024-12-31 21:08:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-31 21:07:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-31 21:07:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-31 21:07:52 +0000"
+      "unlock_right_away": "2024-12-31 21:26:22 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sunflower_plains": "2024-12-31 21:06:46 +0000",
-      "minecraft:stony_shore": "2024-12-31 21:07:10 +0000"
+      "minecraft:old_growth_pine_taiga": "2024-12-31 21:28:44 +0000",
+      "minecraft:taiga": "2024-12-31 21:28:10 +0000",
+      "minecraft:grove": "2024-12-31 21:26:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-31 21:28:39 +0000",
+      "minecraft:meadow": "2024-12-31 21:26:33 +0000"
     },
     "done": false
   },
